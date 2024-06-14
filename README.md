@@ -1,5 +1,5 @@
-# Pear x OpenAI Hackathon Submission: Welcome to SPELLR!
-
+# SPELLR
+(Top 8 OpenAI x Pear Hackathon Finalist!)
 [slideshow](https://docs.google.com/presentation/d/1rgHrxca5VA5EAPBsEKWFkdydZ6hf9BSWebnETlDKWHo/edit?usp=sharing)
 
 ## Spellr is an all-in-one software platform designed to help struggling kids read and write.
